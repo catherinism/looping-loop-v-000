@@ -1,4 +1,4 @@
-def looping
+def looping 
 	loop
   puts "Wingardium Leviosa"
   break
