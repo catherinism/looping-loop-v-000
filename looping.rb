@@ -1,7 +1,6 @@
 def looping
   loop do
     "Wingardium Leviosa"
-    break
 end
 end
 
