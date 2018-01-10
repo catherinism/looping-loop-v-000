@@ -1,7 +1,7 @@
 def looping
   loop do
     "Wingardium Leviosa"
-end
+  end
 end
 
 #call your method here
