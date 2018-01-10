@@ -1,6 +1,5 @@
 def looping 
-	loop
-  puts "Wingardium Leviosa"
+	loop = "Wingardium Leviosa"
   break
 end
 
